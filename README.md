@@ -2,7 +2,7 @@
 
 An ESP32-based prototype for measuring pH and displaying the readings locally and through a ThingSpeak dashboard.
 
-> **Project type:** Team project
+> **Project type:** 2024 semester 2 course mini project; team project
 
 ![IoT pH monitoring hardware](docs/images/ph-monitoring-hardware.jpg)
 
@@ -28,7 +28,7 @@ The system reads a pH sensor through a 4502C analog module, displays the value l
 
 ## Result
 
-Calibration produced a measurement error of **less than 5%**.
+The 2024 presentation, ESP32 code, and exported monitoring data document calibration, local readings, and ThingSpeak monitoring. The available files do not establish a reproducible percentage error.
 
 ## Project Documentation
 

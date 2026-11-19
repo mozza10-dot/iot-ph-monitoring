@@ -1,4 +1,4 @@
-# IoT pH Monitoring System
+# Implementasi Alat Pengukur pH dengan Sensor pH dan ESP32
 
 An ESP32-based prototype for measuring pH and displaying the readings locally and through a ThingSpeak dashboard.
 
